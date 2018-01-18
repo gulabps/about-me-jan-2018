@@ -1,5 +1,5 @@
 Gulab S
 Born in India
 fav animal: dog
-fav color: Red
+fav color: New Red
 copyright: belongs to GS
