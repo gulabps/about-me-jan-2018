@@ -2,4 +2,5 @@ GULAB S
 Born in India
 fav animal: dog
 fav color: Red, not blue
+fav song: aaja
 copyright: belongs to GS
